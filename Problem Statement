@@ -1,0 +1,18 @@
+Problem Statement:
+
+The objective is to develop a machine learning model that accurately predicts the price of electric vehicles (EVs) using a dataset 
+comprising technical specifications and performance metrics. The dataset includes features such as battery capacity (kWh), car model name, 
+energy efficiency (Wh/km), fast charging power (kW), driving range per charge (km), top speed (km/h), and acceleration from 0 to 100 km/h (seconds).
+By leveraging these features, the model aims to forecast the Manufacturer's Suggested Retail Price (MSRP) for EVs.
+
+This predictive capability supports automotive manufacturers, consumers, and policy makers by providing insights into the factors driving 
+EV pricing, enabling informed decision-making in product development, market positioning, and adoption strategies. The project will involve data 
+cleaning, feature engineering, encoding categorical variables, and applying regression algorithms to build a robust price prediction model.
+
+Evaluation of the model will be based on standard regression metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), 
+and R-squared to ensure accuracy and reliability.
+
+This approach addresses the growing need for data-driven insights in the electric vehicle market, aiding stakeholders in optimizing pricing strategies 
+and accelerating EV adoption.
+
+This problem formulation is aligned with recent research and best practices in EV price prediction using machine learning techniques.
