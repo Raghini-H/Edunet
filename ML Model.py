@@ -17,8 +17,7 @@ from sklearn.metrics import (
     confusion_matrix, accuracy_score, classification_report
 )
 from sklearn.ensemble import RandomForestRegressor
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 
 
